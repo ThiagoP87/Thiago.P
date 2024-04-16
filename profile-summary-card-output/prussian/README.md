@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/ThiagoP87/Thiago.P/main/profile-summary-card-output/prussian/4-productive-time.svg)
+```
+
+    
