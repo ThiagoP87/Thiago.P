@@ -45,16 +45,6 @@
 
 ---
 
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/ThiagoP87/Thiago.P/main/profile-summary-card-output/dark/3-stats.svg)
-```
-
-    
-
----
-
 ![](./4-productive-time.svg)
 
 ```
